@@ -1,0 +1,15 @@
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.csproj.AssemblyReference.cache
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.AssemblyInfoInputs.cache
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.AssemblyInfo.cs
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.csproj.CoreCompileInputs.cache
+C:\Study\C#\first_practice\fifth_example\bin\Debug\net6.0\fifth_example.exe
+C:\Study\C#\first_practice\fifth_example\bin\Debug\net6.0\fifth_example.deps.json
+C:\Study\C#\first_practice\fifth_example\bin\Debug\net6.0\fifth_example.runtimeconfig.json
+C:\Study\C#\first_practice\fifth_example\bin\Debug\net6.0\fifth_example.dll
+C:\Study\C#\first_practice\fifth_example\bin\Debug\net6.0\fifth_example.pdb
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.dll
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\refint\fifth_example.dll
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.pdb
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\fifth_example.genruntimeconfig.cache
+C:\Study\C#\first_practice\fifth_example\obj\Debug\net6.0\ref\fifth_example.dll
