@@ -1,0 +1,15 @@
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.csproj.AssemblyReference.cache
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.AssemblyInfoInputs.cache
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.AssemblyInfo.cs
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.csproj.CoreCompileInputs.cache
+C:\Study\C#\first_practice\second_example\bin\Debug\net6.0\second_example.exe
+C:\Study\C#\first_practice\second_example\bin\Debug\net6.0\second_example.deps.json
+C:\Study\C#\first_practice\second_example\bin\Debug\net6.0\second_example.runtimeconfig.json
+C:\Study\C#\first_practice\second_example\bin\Debug\net6.0\second_example.dll
+C:\Study\C#\first_practice\second_example\bin\Debug\net6.0\second_example.pdb
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.dll
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\refint\second_example.dll
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.pdb
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\second_example.genruntimeconfig.cache
+C:\Study\C#\first_practice\second_example\obj\Debug\net6.0\ref\second_example.dll
